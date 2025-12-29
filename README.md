@@ -1,4 +1,5 @@
 # Morse Code Kit
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A collection of Python scripts for encrypting and decrypting morse code. This repository contains two versions of the morse code kit: a "Static" version and a "Dynamic" version.
 
@@ -82,3 +83,7 @@ Both the generator and cracker scripts read the morse code dictionary from the `
 ## Contributing
 
 Pull requests and issues are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
